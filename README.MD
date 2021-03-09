@@ -16,10 +16,7 @@
 
 # Third Moo.
 
-<<<<<<< Updated upstream
 
 
 # I Don't see Hash.
-=======
 # stash is hash.
->>>>>>> Stashed changes
