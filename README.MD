@@ -25,11 +25,10 @@
 
 # another change.
 
-<<<<<<< HEAD
 # Moo4
 
 # Moo5
-=======
 
 # fix issue
->>>>>>> issue1
+
+# hotfix
