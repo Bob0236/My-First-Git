@@ -33,5 +33,7 @@
 
 # hotfix
 
+# fixing issue 2
+# complete fixing issue 2
 
-Go on master Yi
+# fix a bug 
